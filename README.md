@@ -1,5 +1,5 @@
 # Ecommerce site
-## Userful scripts
+## Userful scripts:
 * Bypass execution policy
     * Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 * Activate virtual environment
