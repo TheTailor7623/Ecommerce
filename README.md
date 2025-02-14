@@ -10,6 +10,8 @@
     * pip install -r requirements.txt
 
 ## Knowledge gaps:
+* Lookup tables
+* Database relationship design 1-1, 1-m, m-m
 
 ## REST framework notes:
 
